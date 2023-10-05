@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clever-seat-398104",
+  "private_key_id": "4fa3ad6684b576f701b5e5eb377b01ed3b87af3f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDwuBccIhVuL87+\nF6w0DIQB8Ctbemix60+/jktDh2nn7uxpYFreYxIhXxbWhM3nWtIJDOSjLCH1RxlC\nBrks1QmICo3VjuYfccF0l7VZErLK/ashBAdN1yqHQAD9VVdYh3gQw03YWYUvkucj\nqiVOyEGR+lWBxtf6MVaU3xjH2fXWzoinVED3Gn0O2SiwBrbVnhEIEWNel1LqLULY\nVzPrCy/KSbqurwCVKKFQMkCoWeNkDyKEDxXcjhUpmQm+t7VwtPv3clS1Ij+1jzId\n2v/DAnf3+1du6XKmPok5drhkDwF426cftL/EplsMl8DMeiVXqNn+0urqVfQCS0Mq\niqOs3WhHAgMBAAECggEAPGH5ThHQrWCpvDxE8pN3I6NSxPIqRAMicIspnwlfTBI3\nVGGaubFBUYSwTmRm4BN8n0+QJMxDwmqwz8qu9auE5g67sGfVmuqmm/AYSf0yQ1Ap\ndrEzgdeo799iwCmBrQ/iUtYi91PRYHMprt0V2bLLG+qfO1wdPkHVFaf2597pV5Xf\nzasKVDPrsn4GS0QNUkpYpqS9wnitMr2wjTSUnkW0UomqzOBqR/E9tvkr76tfI2d0\npES5gHnd90x0H/vFVuWqKLwXWm2V47uy+qRD6OgT/xUJMKM7uedIx1dfmbefAzgQ\nFDNqxCdLyR/9m4k2I5WE+9t0j5oA8ernOLaGQOTq9QKBgQD7Port9Gw5JiUXx1kg\nuVCbTMUGo2hSFzI5PnPUM8A095yLYxBZkIRjqWeDt0E3ryCaileuy5a8XeObC+2s\nfxlqOFMvo4zR8up5szTHVcdD2ozHCVTgjdfi/clfdn2pP1PPfnvCqcg5bckkGdOk\nuNs9YJ5FdlFEvM5X6ZwTt8+hjQKBgQD1Roukgwf2hiiirRvcIjWqmX4b+nxdD1Mo\nA+7icIUQE0c0YQk3+YHO4f3a+a/9QRyX2Q5CqbtlBHKNAMLV5TRPEVjWr3q/oGAV\nFuvZ1pHnUWNhAfs/mWS/J5AudAnYzqo2ociExPBmBc4wIrARn+AMW8x6HV+QRq59\ntXaGL9oaIwKBgD1mO22LnicZO1dkUFO+9gP97uiAZq4pHQ0ARi5Ft2M6X/dwbj51\nIuV4MOPvlPCWy9D4nhUJi/zctRLfB2ZwaTWcLjgmL/Pe+Y5kTTGptNjQQDckAKof\n//JpMx0xR+RkpYa/0l7wPw5J1i4MYbyPsIR/aC5xi8rQmVzCqnHnKcbBAoGBAMMn\nw1o9S6uyKUjuddlcetjn0jiOwD8HP4H6Rytynd0hiak6gCxCYS9sDyEZRBc8pHSJ\nptgR1uHUfRSGA4BPI6S5x7bh3sfz4h9FopksKeEkl+8KtY9wDIIwB39+oosYPMTF\nSxeg3yo9+kXAg9kyHQGYVQTgtDXGl3W8WbcBAgeDAoGAAqXwPPFdYH4nZ1VAmUSv\n1nmwILY+0dG7tVFwzPP0HgYQoiN2cVc88JtYS8lJEZm+TxX4z4sLGCcNq/gp+4r2\n0x9tAY8A/r5qUWU/KAa9uhU6MWPnMrYYYY0pZlnDVpOhmEuvk//Eo42qY2vP8KEu\n0khdoOTg/XBRxSSO++tPvPM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "target@clever-seat-398104.iam.gserviceaccount.com",
+  "client_id": "100805219728599011436",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/target%40clever-seat-398104.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
