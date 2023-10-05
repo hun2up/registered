@@ -89,5 +89,4 @@ df_registered = pd.concat([df_channel, df_career], axis=0, ignore_index=True)
 df_registered['월'] = input_month + '월'
 
 df_registered = df_registered[['월','구분','항목','재적인원']]
-print(df_registered)
-# df_registered.to_excel('재적인원.xlsx', index=False)
+df_registered.to_excel('registered.xlsx', index=False)
